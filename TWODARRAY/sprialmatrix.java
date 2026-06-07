@@ -8,6 +8,7 @@ public class sprialmatrix {
         int endRow = matrix.length-1;
         int endCol = matrix[0].length -1;
 
+            //loop 
         while(startRow <= endRow && startCol <= endCol){
 
             //top
